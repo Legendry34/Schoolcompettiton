@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_maindiv{
+    border: 1px solid lightgray;
+}
+.travel_maindiv img{
+    width: 100%;
+}
+.movie_head{
+    font-size: 25px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: yellow;
+}
+.book{
+    margin-bottom: 20px;
+}
+#name,#book{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
